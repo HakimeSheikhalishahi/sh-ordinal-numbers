@@ -1,5 +1,5 @@
-# Ordinal Numbers Pipe
-#### You can convert number to ordinal numbers in Angular.
+# Ordinal numbers pipe
+#### You can add an ordinal suffix to number in Angular.
 ```
 1st
 2nd
@@ -12,8 +12,6 @@
 9th
 10th
 11th
-12th
-13th
 ...
 ```
 ## Setup
