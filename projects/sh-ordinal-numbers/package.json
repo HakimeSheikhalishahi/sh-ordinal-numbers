@@ -1,0 +1,30 @@
+{
+  "name": "sh-ordinal-numbers",
+  "version": "4.8.13",
+  "peerDependencies": {
+    "@angular/common": "^13.1.0",
+    "@angular/core": "^13.1.0"
+  },
+  "dependencies": {
+    "tslib": "^2.3.0"
+  },
+  "description": "Ordinal numbers pipe",
+  "author": {
+    "name": "Hakime sheikhalishahi",
+    "email": "h.sheykhalishahi@gmail.com"
+  },
+  "keywords": [
+    "angular",
+    "library",
+    "pipe",
+    "ordinal",
+    "front-end",
+    "pipe",
+    "number",
+    "format",
+    "ordinal_numbers"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "repository": {}
+}

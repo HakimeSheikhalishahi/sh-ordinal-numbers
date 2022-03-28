@@ -16,6 +16,12 @@
     "experimentalDecorators": true,
     "moduleResolution": "node",
     "importHelpers": true,
+    "paths": {
+      "shOrdinalNumbers": [
+        "dist/sh-ordinal-numbers/sh-ordinal-numbers",
+        "dist/sh-ordinal-numbers"
+      ]
+    },
     "target": "es2017",
     "module": "es2020",
     "lib": [
