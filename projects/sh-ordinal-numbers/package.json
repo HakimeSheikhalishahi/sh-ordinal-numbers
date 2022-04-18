@@ -1,6 +1,6 @@
 {
   "name": "sh-ordinal-numbers",
-  "version": "4.10.15",
+  "version": "4.10.17",
   "peerDependencies": {
     "@angular/common": "^13.1.0",
     "@angular/core": "^13.1.0"

@@ -1,6 +1,6 @@
 {
   "name": "sh-ordinal-numbers",
-  "version": "4.10.15",
+  "version": "4.10.17",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
